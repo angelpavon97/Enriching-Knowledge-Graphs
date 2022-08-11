@@ -22,5 +22,9 @@ We test whether it is possible to enrich the semantics of Wikidata by evaluating
   - ***r_prediction_maskgpt_bert.json***: JSON file with the results of entity relationship prediction given two entities using BERT with GPT-2 entity enrichment.
   - ***r_prediction_maskgpt_roberta.json***: JSON file with the results of entity relationship prediction given two entities using Roberta with GPT-2 entity enrichment.
 - ***EnrichingKGs.ipynb***: Jupiter notebook for the experimentation of entities relations prediction given two entities using language models and entity enrichment.
+- ***KGconversion.ipynb***: Jupiter notebook for the conversion of the new predicted relations between entities into a knowledge graph from csv tables.
+- ***KG.ttl***: The generated knowledge graph in turtle format .
+
+
 
 
